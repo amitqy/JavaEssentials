@@ -11,11 +11,11 @@ public class Main {
         Iphone iphone3 = new Iphone(12313,"lol");
 
         // For these kind of purposes we use enums
-        // Enum is class which allows us to represent
+        // Enum is a class which allows us to represent
         // a group of constants
 
         // Another use case is if we have person class
-        // and we have a gender field
+        // and we have a gender field in it.
 
         // We can make the gender field as enum
         // public enum Gender{
