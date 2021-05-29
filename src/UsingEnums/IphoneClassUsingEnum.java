@@ -10,6 +10,8 @@ public class IphoneClassUsingEnum {
 
   }
 
+  // returns the enum constant
+  // corresponding to an this class instance
   public IphoneModel getModel(){
     return model;
   }
