@@ -16,12 +16,10 @@ public class Main {
 
         // Another use case is if we have person class
         // and we have a gender field
-        
+
         // We can make the gender field as enum
         // public enum Gender{
         //   MALE,FEMALE
         // }
-
-
     }
 }

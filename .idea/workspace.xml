@@ -29,7 +29,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.StaticKeyword">
+  <component name="RunManager" selected="Application.MainRefactored">
+    <configuration name="MainRefactored" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsingEnums.MainRefactored" />
+      <module name="JavaEssentials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UsingEnums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PassByValVsRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PassByValVsRef" />
       <module name="JavaEssentials" />
@@ -71,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainRefactored" />
         <item itemvalue="Application.StaticKeyword" />
         <item itemvalue="Application.TheObjectClass" />
         <item itemvalue="Application.PassByValVsRef" />
@@ -88,7 +102,7 @@
       <updated>1621949110570</updated>
       <workItem from="1621949112180" duration="2662000" />
       <workItem from="1622214035171" duration="2207000" />
-      <workItem from="1622270121995" duration="2825000" />
+      <workItem from="1622270121995" duration="3897000" />
     </task>
     <servers />
   </component>

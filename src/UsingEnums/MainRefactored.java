@@ -9,6 +9,8 @@ public class MainRefactored {
         IphoneClassUsingEnum iphone2 = new IphoneClassUsingEnum(1000000,IphoneModel.IPHONE_8);
         IphoneClassUsingEnum iphone3 = new IphoneClassUsingEnum(1000000,IphoneModel.IPHONE_X);
 
+
+
         // Can't do this now
         // IphoneClassUsingEnum iphone4 = new IphoneClassUsingEnum(123133,"lol");
 

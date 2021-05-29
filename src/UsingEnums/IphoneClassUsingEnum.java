@@ -10,4 +10,15 @@ public class IphoneClassUsingEnum {
 
   }
 
+  public IphoneModel getModel(){
+    return model;
+  }
+
+  @Override
+  public String toString() {
+    return "IphoneClassUsingEnum{" +
+            "price=" + price +
+            ", model=" + model +
+            '}';
+  }
 }
