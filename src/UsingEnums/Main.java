@@ -2,7 +2,7 @@ package UsingEnums;
 
 public class Main {
     public static void main(String[] args) {
-        // Here the problem is that anyone can come and change the model
+        // Here the problem is that anyone can come and change the iphone model
         // to anything else
         Iphone iphone1 = new Iphone(12312,"IPHONE_7");
         Iphone iphone2 = new Iphone(12312,"IPHONE_8");
