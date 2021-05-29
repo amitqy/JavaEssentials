@@ -29,7 +29,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.TheObjectClass">
+  <component name="RunManager" selected="Application.StaticKeyword">
     <configuration name="PassByValVsRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PassByValVsRef" />
       <module name="JavaEssentials" />
@@ -44,6 +44,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StaticKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticKeyword" />
+      <module name="JavaEssentials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TheObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TheObjectClass" />
       <module name="JavaEssentials" />
@@ -51,21 +58,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticKeyword" />
         <item itemvalue="Application.TheObjectClass" />
         <item itemvalue="Application.PassByValVsRef" />
         <item itemvalue="Application.PrimitiveVsReferenceTypes" />
@@ -81,7 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1621949110570</updated>
       <workItem from="1621949112180" duration="2662000" />
-      <workItem from="1622214035171" duration="1006000" />
+      <workItem from="1622214035171" duration="2207000" />
+      <workItem from="1622270121995" duration="1566000" />
     </task>
     <servers />
   </component>
